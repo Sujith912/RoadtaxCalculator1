@@ -1,4 +1,4 @@
-# class RoadtaxCalculator{
+# class RoadtaxCalculator1{
 public static void main(String args[]){
 int vehiclePrice=350000;
 String StateKeyword="AP";
